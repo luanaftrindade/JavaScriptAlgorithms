@@ -30,7 +30,7 @@ Replace 'package' with the name of the package containing the algorithm that you
 
 ## Algorithms
 
-I have a list of algorithms that I want to create [here]() (feel free so suggest new algorithms ideas :)). The following list only contains algorithms that have already been implemented:
+I have a list of algorithms that I want to create [here](https://github.com/luanaftrindade/JavaScriptAlgorithms/blob/main/ALGORITHMS.md) (feel free so suggest new algorithms ideas :)). The following list only contains algorithms that have already been implemented:
 
 1. **Frequency of a Number in a Range:**
 
