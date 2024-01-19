@@ -1,5 +1,8 @@
+### Frequency of a Number:
+1. Find the frequency of a number in a range. ✔️
+
 ### Array Manipulation:
-1. Find the maximum or minimum element in an array. - DONE
+1. Find the maximum or minimum element in an array. ✔️
 2. Find the second-largest or second-smallest element in an array.
 3. Rotate an array to the right by k steps.
 
