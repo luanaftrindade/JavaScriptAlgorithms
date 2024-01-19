@@ -30,7 +30,7 @@ Replace 'package' with the name of the package containing the algorithm that you
 
 ## Algorithms
 
-I have a list of algorithms that I want to create [here](), but will add here only the algorithms already implemented. Feel free so suggest new algorithms ideas :) 
+I have a list of algorithms that I want to create [here]() (feel free so suggest new algorithms ideas :)). The following list only contains algorithms that have already been implemented:
 
 1. **Frequency of a Number in a Range:**
 
