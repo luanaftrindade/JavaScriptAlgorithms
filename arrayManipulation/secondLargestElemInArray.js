@@ -1,6 +1,6 @@
 function findTheSecondLargestElementInArray(array) {
   let newArray = [...array];
-  var max = Math.max.apply(null, newArray); // get the first max of the array
+  let max = Math.max.apply(null, newArray); // get the first max of the array
   newArray.splice(newArray.indexOf(max), 1); // remove first max from the array
   return Math.max.apply(null, newArray); // return the second max
 }
