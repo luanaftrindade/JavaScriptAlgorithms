@@ -33,7 +33,7 @@ Replace 'package' with the name of the package containing the algorithm that you
 I have a list of algorithms that I want to create [here](https://github.com/luanaftrindade/JavaScriptAlgorithms/blob/main/ALGORITHMS.md) (feel free so suggest new algorithms ideas :relieved:). The following list only contains algorithms that have already been implemented:
 
 <div align="center">
-  <img src="https://imgur.com/Gv57qAn" alt="frequencyOfANumberImage" width="100%">
+  <img src="https://i.ibb.co/n3rF165/frequency-of-a-number.png" alt="frequencyOfANumberImage" width="25%">
 </div>
 
 ### 0. **Frequency of a Number in a Range:**
@@ -42,7 +42,7 @@ I have a list of algorithms that I want to create [here](https://github.com/luan
 **File:** countNumbers/countEveryNumberOneInARange.js OR countEveryNumberNineInARange.js
 
 <div align="center">
-  <img src="https://imgur.com/fox0FpH" alt="arrayManipulationImage" width="100%">
+  <img src="https://i.ibb.co/f2WTh8N/frequency-of-a-number-1.png" alt="arrayManipulationImage" width=25%">
 </div>
 
 ### 0. **Maximum Element of an Array:**
