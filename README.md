@@ -32,22 +32,30 @@ Replace 'package' with the name of the package containing the algorithm that you
 
 I have a list of algorithms that I want to create [here](https://github.com/luanaftrindade/JavaScriptAlgorithms/blob/main/ALGORITHMS.md) (feel free so suggest new algorithms ideas :relieved:). The following list only contains algorithms that have already been implemented:
 
-### 1. **Frequency of a Number in a Range:**
+<div align="center">
+  <img src="https://imgur.com/Gv57qAn" alt="frequencyOfANumberImage" width="100%">
+</div>
+
+### 0. **Frequency of a Number in a Range:**
 
 **Description:** This algorithm calculates the frequency of a given number within a specified range of integers. <br>
 **File:** countNumbers/countEveryNumberOneInARange.js OR countEveryNumberNineInARange.js
 
-### 2. **Maximum Element of an Array:**
+<div align="center">
+  <img src="https://imgur.com/fox0FpH" alt="arrayManipulationImage" width="100%">
+</div>
+
+### 0. **Maximum Element of an Array:**
 
 **Description:** This algorithm finds and prints the maximum element in a given array. <br>
 **File:** arrayManipulation/maxElementInArray.js
 
-### 3. **Second Largest Element of an Array:**
+### 1. **Second Largest Element of an Array:**
 
 **Description:** This algorithm finds and prints the second largest element in a given array. <br>
 **File:** arrayManipulation/secondLargestElemInArray.js
 
-### 4. **Rotate an array to the right by k steps:**
+### 2. **Rotate an array to the right by k steps:**
 
 **Description:** The main purpose of the "Rotate an array to the right by k steps" algorithm is to cyclically shift the elements of an array to the right by a specified number of steps (k). This operation is often useful in various scenarios, including: <br>
 - *Data Transformation:* When dealing with data structures where cyclic operations are required, such as circular buffers or queues, rotating elements can facilitate efficient data management. <br>
