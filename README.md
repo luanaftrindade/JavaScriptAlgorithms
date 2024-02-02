@@ -32,15 +32,32 @@ Replace 'package' with the name of the package containing the algorithm that you
 
 I have a list of algorithms that I want to create [here](https://github.com/luanaftrindade/JavaScriptAlgorithms/blob/main/ALGORITHMS.md) (feel free so suggest new algorithms ideas :relieved:). The following list only contains algorithms that have already been implemented:
 
-1. **Frequency of a Number in a Range:**
+### 1. **Frequency of a Number in a Range:**
 
 **Description:** This algorithm calculates the frequency of a given number within a specified range of integers. <br>
 **File:** countNumbers/countEveryNumberOneInARange.js OR countEveryNumberNineInARange.js
 
-2. **Maximum Element of an Array:**
+### 2. **Maximum Element of an Array:**
 
 **Description:** This algorithm finds and prints the maximum element in a given array. <br>
-**File:** arrayManipulation/maxElementOfArray.js
+**File:** arrayManipulation/maxElementInArray.js
+
+### 3. **Second Largest Element of an Array:**
+
+**Description:** This algorithm finds and prints the second largest element in a given array. <br>
+**File:** arrayManipulation/secondLargestElemInArray.js
+
+### 4. **Rotate an array to the right by k steps:**
+
+**Description:** The main purpose of the "Rotate an array to the right by k steps" algorithm is to cyclically shift the elements of an array to the right by a specified number of steps (k). This operation is often useful in various scenarios, including: <br>
+- *Data Transformation:* When dealing with data structures where cyclic operations are required, such as circular buffers or queues, rotating elements can facilitate efficient data management. <br>
+- *Array Manipulation:* In scenarios where you need to change the order of elements in an array, rotating the array can help reorganize the data according to specific requirements. <br>
+- *Algorithmic Challenges:* Many algorithmic problems involve array manipulation and rotation. The algorithm can be a fundamental building block for solving such problems efficiently. <br>
+- *Optimizing Memory Access:* In certain situations, rotating an array can optimize memory access patterns, especially when dealing with large datasets or specialized data structures. <br>
+- *Algorithm Design and Analysis:* Studying and understanding rotation algorithms can provide insights into algorithm design principles, such as in-place manipulation and time complexity analysis. <br>
+In summary, the algorithm serves as a practical tool for array manipulation and facilitates various programming tasks and algorithmic challenges. <br>
+
+**File:** arrayManipulation/secondLargestElemInArray.js
 
 ## Contributing
 
