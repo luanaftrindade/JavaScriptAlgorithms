@@ -1,6 +1,6 @@
-# JavaScript Algorithms Practice
+# JavaScript Algorithms Practice :computer:	
 
-Welcome to my JavaScript Algorithms Practice repository! This project is aimed at improving my problem-solving skills and enhancing my understanding of algorithms using JavaScript.
+Welcome to my JavaScript Algorithms Practice repository! :game_die: This project is aimed at improving my problem-solving skills and enhancing my understanding of algorithms using JavaScript.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Replace 'package' with the name of the package containing the algorithm that you
 
 ## Algorithms
 
-I have a list of algorithms that I want to create [here]() (feel free so suggest new algorithms ideas :)). The following list only contains algorithms that have already been implemented:
+I have a list of algorithms that I want to create [here](https://github.com/luanaftrindade/JavaScriptAlgorithms/blob/main/ALGORITHMS.md) (feel free so suggest new algorithms ideas :relieved:). The following list only contains algorithms that have already been implemented:
 
 1. **Frequency of a Number in a Range:**
 
