@@ -3,8 +3,8 @@
 
 ### Array Manipulation:
 1. Find the maximum or minimum element in an array. ✔️
-2. Find the second-largest or second-smallest element in an array.
-3. Rotate an array to the right by k steps.
+2. Find the second-largest or second-smallest element in an array. ✔️
+3. Rotate an array to the right by k steps. ✔️
 
 ### Sorting:
 1. Implement various sorting algorithms (e.g., quicksort, mergesort).
