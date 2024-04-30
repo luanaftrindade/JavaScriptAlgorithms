@@ -1,6 +1,6 @@
 # JavaScript Algorithms Practice :computer:	
 
-Welcome to my JavaScript Algorithms Practice repository! :game_die: This project is aimed at improving my problem-solving skills and enhancing my understanding of algorithms using JavaScript.
+Welcome to my JavaScript Algorithms Practice repository! :game_die: This project aims to improve my problem-solving skills and deepen my understanding of algorithms using JavaScript.
 
 ## Getting Started
 
